@@ -1,0 +1,7 @@
+{
+  "name": "crochet_bunny1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
